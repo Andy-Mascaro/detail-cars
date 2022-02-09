@@ -1,23 +1,27 @@
 export const cars = [{
+    id: '1',
     brand:'toyota',
-    model:['Corolla', 'Tundra', 'Camry']
-    img:
+    model:['Corolla'],
+    image: 'corolla',
     
 },
-{
-    brand:'subaru',
-    model:['Impreza', 'Wrx', 'Outback']
+// {
+//     id: 2,
+//     brand:'subaru',
+//     model:['Impreza']
     
-},
-{
-    brand:'ford',
-    model:['Mustang', 'Bronco', 'Focus']
+// },
+// {
+//     id: 3, 
+//     brand:'ford',
+//     model:['Mustang']
     
-},
+// },
 
-{
-    brand: 'honda',
-    model:['Accord', 'Pilot', 'Civic']
-},
+// {
+//     id: 4,
+//     brand: 'honda',
+//     model:['Accord']
+// },
 
 ];
