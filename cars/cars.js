@@ -13,4 +13,3 @@ const car = findById(params.get('id'), cars);
 carName.textContent = car.name;
 carImage.src = `../assets/${car.image}.jpeg`;
 carModel.textContent = car.model;
-console.log(car);

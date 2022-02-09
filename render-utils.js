@@ -19,7 +19,7 @@ export function renderCar(car) {
     div.style.left = car.left;
     
     const a = document.createElement('a');
-    console.log(a);
+    
     a.href = `/cars/?id=${car.id}`;
 
     const img = document.createElement('img');

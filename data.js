@@ -5,23 +5,24 @@ export const cars = [{
     image: 'corolla',
     
 },
-// {
-//     id: 2,
-//     brand:'subaru',
-//     model:['Impreza']
-    
-// },
-// {
-//     id: 3, 
-//     brand:'ford',
-//     model:['Mustang']
-    
-// },
+{
+    id: '2',
+    brand:'subaru',
+    model:['Impreza'],
+    image: 'impreza',
+},
+{
+    id: '3', 
+    brand:'ford',
+    model:['Mustang'],
+    image: 'mustang',
+},
 
-// {
-//     id: 4,
-//     brand: 'honda',
-//     model:['Accord']
-// },
+{
+    id: '4',
+    brand: 'honda',
+    model:['Accord'],
+    image: 'accord',
+},
 
 ];
