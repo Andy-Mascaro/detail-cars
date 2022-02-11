@@ -1,17 +1,3 @@
-// export function renderCar(car) {
-//     const div = document.createElement('div');
-//     div.classList.add('car');
-    
-//     const h2 = document.createElement('h2');
-//     h2.textContent = car.brand.toUpperCase();
-
-//     const p = document.createElement('p');
-//     p.textContent = `${car.model} .`; 
-//     div.append(h2, p);
-//     return div;
-
-// }
-
 export function renderCar(car) {
     const div = document.createElement('div');
     div.classList.add('car');

@@ -31,7 +31,8 @@ body {
     background-color: var(--color2); */
 }
 
-main {
+ 
+    main {
     
         background-image: url(../assets/roads.jpeg);
         display: flex;
@@ -41,12 +42,15 @@ main {
         height: 100%;
         align-content: flex-start;
         position: relative;
-        color: white;
-        font-size: larger;
+        color: black;
+       font-size: larger;
+    }    
     
     
+
     
-}
+    
+/* } */
     /* position: relative;  */
     /* height: 640px;
     align-content: flex-start;
