@@ -1,0 +1,40 @@
+body {
+    --color1: #2e3436;
+    --color3: #fbe85d;
+    --color2: #edb6a3;
+    --color4: #8aa2a9;
+    --color5: #6e9727;
+    --header-height: 40px;
+    font-family: 'Fredoka One', cursive;
+}
+
+.car-detail img {
+    height: 500px;
+    
+    
+   }
+
+   .car-detail {
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+   }
+
+   .car-model{
+       padding-right: 5px;
+
+   }
+
+   .cars{
+       padding:200px;
+       color:black;
+   }
+
+   .a{
+    color:black;
+}
+
+
+
+
