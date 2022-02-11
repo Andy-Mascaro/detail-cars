@@ -1,8 +1,7 @@
 export function renderCar(car) {
     const div = document.createElement('div');
     div.classList.add('car');
-    div.style.top = car.top;
-    div.style.left = car.left;
+    
     
     const a = document.createElement('a');
     
